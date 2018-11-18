@@ -15,7 +15,8 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Testing integration with travis");
+        System.out.println("Version 1");
+        System.out.println("Test integration with travis");
     }
     
 }
